@@ -1,0 +1,7 @@
+{
+  "STORAGE_DIR": "./data",
+  "SQLITE_PATH": "",
+  "DATABASE_URL": "",
+  "GITHUB_TOKEN": "",
+  "OLLAMA_BASE_URL": "http://127.0.0.1:11434"
+}
